@@ -1,0 +1,6 @@
+com/example/bfh/config/WebClientConfig.class
+com/example/bfh/BfhApplication.class
+com/example/bfh/service/QualifierRunner.class
+com/example/bfh/model/FinalQueryRequest.class
+com/example/bfh/model/GenerateWebhookRequest.class
+com/example/bfh/model/GenerateWebhookResponse.class

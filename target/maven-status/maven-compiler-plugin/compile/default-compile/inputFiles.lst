@@ -1,0 +1,6 @@
+/workspaces/bfh-qualifier-java/src/main/java/com/example/bfh/BfhApplication.java
+/workspaces/bfh-qualifier-java/src/main/java/com/example/bfh/config/WebClientConfig.java
+/workspaces/bfh-qualifier-java/src/main/java/com/example/bfh/model/FinalQueryRequest.java
+/workspaces/bfh-qualifier-java/src/main/java/com/example/bfh/model/GenerateWebhookRequest.java
+/workspaces/bfh-qualifier-java/src/main/java/com/example/bfh/model/GenerateWebhookResponse.java
+/workspaces/bfh-qualifier-java/src/main/java/com/example/bfh/service/QualifierRunner.java
